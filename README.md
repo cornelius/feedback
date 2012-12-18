@@ -1,2 +1,1 @@
-feedback
-========
+Just an idea.
