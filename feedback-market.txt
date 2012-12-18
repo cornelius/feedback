@@ -2,18 +2,46 @@
 
 This is the next level of pull requests.
 
-Pull requests are a great tool for collaboration in an open source project. They foster feedback and enable review of contributions. They improve the quality of code and provide a learning opportunity for contributors. Feedback and peer review are an integral part of the open source development process and pull requests have proven to be a great tool to support this. But does this have to be limited to open source contributions to specific projects?
+Pull requests are a great tool for collaboration in an open source project. They
+foster feedback and enable review of contributions. They improve the quality of
+code and provide a learning opportunity for contributors. Feedback and peer
+review are an integral part of the open source development process and pull
+requests have proven to be a great tool to support this. But does this have to
+be limited to open source contributions to specific projects?
 
-What if pull requests would not only be targeted to the maintainers of a certain project, but be open to feedback from everybody interested and qualified to comment?
+What if pull requests would not only be targeted to the maintainers of a certain
+project, but be open to feedback from everybody interested and qualified to
+comment?
 
-What if pull requests would not only be used for reviewing code, but also for giving feedback to things like blogs, drafts of books, or even changes in laws?
+What if pull requests would not only be used for reviewing code, but also for
+giving feedback to things like blogs, drafts of books, or even changes in laws?
 
-What if there would be a market to bring together people who seek feedback on something and those who are interested and qualified to give it?
+What if there would be a market to bring together people who seek feedback on
+something and those who are interested and qualified to give it?
 
-As a frist step there could be a way how to publish pull requests and how to browse and search for published pull requests. This could be based on existing attributes like programming language, license, who are the contributors, or on new ones like tags classifying the kind of contribution, explicit requests for who is asked to review the code, or history of reviews of previous pull requests.
+As a frist step there could be a way how to publish pull requests and how to
+browse and search for published pull requests. This could be based on existing
+attributes like programming language, license, who are the contributors, or on
+new ones like tags classifying the kind of contribution, explicit requests for
+who is asked to review the code, or history of reviews of previous pull
+requests.
 
-As a second step the tools to comment on pull requests could be extended to cover non-code reviews as well, to allow for detailed commenting, to more powerfully show changes. By creating a user interface for review of texts targetted at non coders pull requests could be opened to a much wider audience. Use cases for that could be discussions on a blog, correcting language of texts written by non-native speakers, a structured debate about a political proposal, or many other things, where people are looking for the help of others to improve their thoughts and work.
+As a second step the tools to comment on pull requests could be extended to
+cover non-code reviews as well, to allow for detailed commenting, to more
+powerfully show changes. By creating a user interface for review of texts
+targetted at non coders pull requests could be opened to a much wider audience.
+Use cases for that could be discussions on a blog, correcting language of texts
+written by non-native speakers, a structured debate about a political proposal,
+or many other things, where people are looking for the help of others to improve
+their thoughts and work.
 
-As a third step this could be turned into a market, where people seeking for feedback and people willing and able to give feedback are brought together. Making use of existing social connections, history of interaction and feedback, attributes of the subject of feedback, and attributes of the people willing to give feedback, people and requests can be matched, so that a valuable interaction is made possible. By introducing a way how to pay for useful feedback this could be turned into a sustainable market providing value to all participants.
+As a third step this could be turned into a market, where people seeking for
+feedback and people willing and able to give feedback are brought together.
+Making use of existing social connections, history of interaction and feedback,
+attributes of the subject of feedback, and attributes of the people willing to
+give feedback, people and requests can be matched, so that a valuable
+interaction is made possible. By introducing a way how to pay for useful
+feedback this could be turned into a sustainable market providing value to all
+participants.
 
 What do you think? Feedback is welcome.
